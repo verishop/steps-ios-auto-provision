@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'fastlane', '2.173.0'
+gem 'fastlane', '2.213.0'
 gem 'openssl'
 gem 'plist'
 gem 'xcodeproj'
